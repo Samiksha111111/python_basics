@@ -1,3 +1,8 @@
 git init . #git initialise, start folders to track, . is current folder
 git status #check git status
 git add . #staging area . is all the files
+git config --global user.email "mgrsam778@gmail.com"
+git config --global user.name "samiksha"
+git commit -m "any msg" #commiting area, -m is the message
+git remote add origin https://github.com/Samiksha111111/python_basics.git #to link
+git push origin master #code push to git
