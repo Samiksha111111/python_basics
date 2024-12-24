@@ -6,3 +6,7 @@ git config --global user.name "samiksha"
 git commit -m "any msg" #commiting area, -m is the message
 git remote add origin https://github.com/Samiksha111111/python_basics.git #to link
 git push origin master #code push to git
+
+user@LAPTOP-VL51NDVV MINGW64 ~/Desktop/Python (master)
+$ git checkout -b "alienGame"
+Switched to a new branch 'alienGame'
