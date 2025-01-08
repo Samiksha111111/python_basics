@@ -1,2 +1,1 @@
-Silver Sword
-Diamond Necklace
+dog,79,50,60,0,
