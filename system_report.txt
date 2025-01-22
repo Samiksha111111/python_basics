@@ -1,0 +1,8 @@
+Current working directory: C:\Users\ittra\Desktop\Python
+Disk usage:
+Total: 234.43 GB
+Total: 197.61 GB
+Total: 36.82 GB
+System information:
+ MSYS_NT-10.0-26100 LAPTOP-VL51NDVV 3.4.9-be826601.x86_64 2023-09-07 12:36 UTC x86_64 Msys
+
